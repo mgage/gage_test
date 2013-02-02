@@ -1,0 +1,10 @@
+
+openDate          = 12/28/2012 at 11:59pm EST
+dueDate           = 01/07/2013 at 11:59pm EST
+answerDate        = 01/09/2013 at 11:59pm EST
+paperHeaderFile   = defaultHeader
+screenHeaderFile  = defaultHeader
+problemList       = 
+local/settest_helpFiles/helpLink.pg, 1, -1 
+local/settest_helpFiles/knowl.pg, 1, -1 
+

@@ -1,0 +1,11 @@
+
+openDate          = 01/05/2013 at 02:02am EST
+dueDate           = 01/17/2013 at 08:00am EST
+answerDate        = 01/17/2013 at 08:01am EST
+paperHeaderFile   = defaultHeader
+screenHeaderFile  = defaultHeader
+problemList       = 
+local/setWILA/one.pg, 1, -1 
+local/setWILA/two.pg, 1, -1 
+local/setWILA/three.pg, 1, -1 
+

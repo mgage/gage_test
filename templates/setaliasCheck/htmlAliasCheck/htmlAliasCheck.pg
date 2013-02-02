@@ -1,0 +1,93 @@
+##DESCRIPTION
+##  Algebra problem: true or false for inequality 
+##ENDDESCRIPTION
+
+##KEYWORDS('algebra', 'inequality', 'fraction')
+
+## DBsubject('Algebra')
+## DBchapter('Fundamentals')
+## DBsection('Real Numbers')
+## Date('6/3/2002')
+## Author('')
+## Institution('')
+## TitleText1('Precalculus')
+## EditionText1('3')
+## AuthorText1('Stewart, Redlin, Watson')
+## Section1('1.1')
+## Problem1('22')
+
+########################################################################
+
+DOCUMENT();      
+
+loadMacros(
+   "PGstandard.pl",     # Standard macros for PG language
+   "MathObjects.pl",
+   "PGinfo.pl",
+   #"source.pl",        # allows code to be displayed on certain sites.
+   #"PGcourse.pl",      # Customization file for the course
+);
+
+# Print problem number and point value (weight) for the problem
+TEXT(beginproblem());
+
+# Show which answers are correct and which ones are incorrect
+$showPartialCorrectAnswers = 1;
+
+##############################################################
+#
+#  Setup
+#
+#
+Context("Numeric");
+
+
+
+##############################################################
+#
+#  Text
+#
+#
+
+Context()->texStrings;
+BEGIN_TEXT
+
+$BBOLD Check that the alias command works to find HTML files $EBOLD $PAR
+All of these tests should succeed.
+$PAR
+
+This should find a static .gif graph file in the same directory.$PAR
+\{image("prob14.gif")\}$PAR
+\{ protect_underbar( alias("prob14.gif") )\} $PAR
+
+This should find a static .png graph file in the same directory.$PAR
+\{image("3.png")\}$PAR
+\{ protect_underbar( alias("3.png") )\} $PAR
+
+
+This should find an html file in the same directory.
+\{htmlLink(alias( "prob14hint.html" ), "url " , 'target="_tmp"' )\} should bring up a new html page.
+$PAR
+\{protect_underbar( alias("prob14hint.html") )\}
+$PAR
+
+
+END_TEXT
+Context()->normalStrings;
+
+TEXT(" $END_MULTI_COLUMN prettyprint resources: $BR", 
+join(" ", keys %{ $PG->{PG_alias}->{resource_list} }  ),
+#pretty_print(  $PG->{PG_alias}->{resource_list} , $displayMode )
+);
+##############################################################
+#
+#  Answers
+#
+#
+
+
+# relative tolerance --3.1412 is incorrect but 3.1413 is correct
+# default tolerance is .01 or one percent.
+
+
+ENDDOCUMENT();        

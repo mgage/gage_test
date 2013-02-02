@@ -1,0 +1,49 @@
+##DESCRIPTION
+##KEYWORDS('linear algebra', 'system')
+##TYPE('equation answer')
+## unique integer solution to 2x2 system
+##ENDDESCRIPTION
+
+## DBsubject('Algebra')
+## DBchapter('Coordinates and Graphs')
+## DBsection('Graphs of Equations')
+## Date('')
+## Author('')
+## Institution('University of Puget Sound')
+## TitleText1('A First Course in Linear Algebra')
+## EditionText1('3.00')
+## AuthorText1('Beezer')
+## Section1('WILA')
+## Problem1('RQ2')
+
+
+DOCUMENT();        # This should be the first executable line in the problem.
+
+loadMacros("PG.pl", "PGbasicmacros.pl", "PGchoicemacros.pl",
+"PGanswermacros.pl",
+"PGauxiliaryFunctions.pl");
+
+TEXT(beginproblem());
+$showPartialCorrectAnswers = 0;
+
+$x1 = random(-9, 9);
+$x2 = random(-9, 9);
+
+$b1 = 2*$x1 + 3*$x2;
+$b2 =   $x1 -   $x2;
+
+BEGIN_TEXT
+Find a solution to the linear system of equations: $BR
+$BR
+\(2x_1 + 3x_2 = $b1 \) $BR
+\( x_1 -  x_2 = $b2 \) $BR
+$BR
+$BR
+\(x_1\) \{ans_rule(5)\}$BR
+\(x_2\) \{ans_rule(5)\}$BR
+END_TEXT
+
+ANS(num_cmp($x1, mode=>"strict"));
+ANS(num_cmp($x2, mode=>"strict"));
+
+ENDDOCUMENT();        # This should be the last executable line in the problem.

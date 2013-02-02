@@ -1,0 +1,39 @@
+##DESCRIPTION
+##KEYWORDS('algebra', 'lines')
+##TYPE('equation answer')
+## finding an equation of the line with a given slope and a
+## point on the line;
+##ENDDESCRIPTION
+
+## DBsubject('Algebra')
+## DBchapter('Coordinates and Graphs')
+## DBsection('Graphs of Equations')
+## Date('')
+## Author('')
+## Institution('Rochester')
+## TitleText1('College Algebra')
+## EditionText1('3')
+## AuthorText1('Stewart, Redlin, Watson')
+## Section1('2.2')
+## Problem1('62')
+
+
+DOCUMENT();        # begin problem
+
+loadMacros("PGstandard.pl", "MathObjects.pl", "PGessaymacros.pl");
+
+TEXT(beginproblem());
+Context("Numeric");
+
+Context()->texStrings;
+BEGIN_TEXT
+Describe how the production manager might explain the importance of the procedures described in the trail mix application (Subsection WILA.AA).  $BR
+$BR
+\{essay_box(10, 80)\}
+END_TEXT
+Context()->normalStrings;
+
+ANS(essay_cmp());
+
+ENDDOCUMENT();        # end problem
+

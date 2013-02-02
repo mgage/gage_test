@@ -1,0 +1,10 @@
+
+openDate          = 08/14/2012 at 12:35am EDT
+dueDate           = 08/21/2012 at 12:35am EDT
+answerDate        = 08/21/2012 at 12:35am EDT
+paperHeaderFile   = defaultHeader
+screenHeaderFile  = local/setaliasCheck.pg
+problemList       = 
+setaliasCheck/htmlAliasCheck/htmlAliasCheck.pg, 1, -1 
+setaliasCheck/htmlAliasCheck/prob8.pg, 1, -1 
+

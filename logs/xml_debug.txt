@@ -1,0 +1,3721 @@
+
+
+Start xml encoding
+HASH reference with 1/8 elements will be investigated
+  AnSwEr0001 is HASH reference with 10/16 elements will be investigated
+    preview_latex_string is      : scalar -- not converted
+    done is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    score is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+  HASH reference completed 
+HASH reference completed 
+
+
+Start xml encoding
+HASH reference with 1/8 elements will be investigated
+  AnSwEr0001 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+HASH reference completed 
+
+
+Start xml encoding
+HASH reference with 4/8 elements will be investigated
+  AnSwEr0002 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0004 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0001 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0003 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : s
+
+Start xml encoding
+HASH reference with 4/8 elements will be investigated
+  AnSwEr0005 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0002 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0004 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0001 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+HASH reference completed 
+calar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0003 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+HASH reference completed 
+
+
+Start xml encoding
+HASH reference with 1/8 elements will be investigated
+  AnSwEr0001 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+HASH reference completed 
+
+
+Start xml encoding
+HASH reference with 1/8 elements will be investigated
+  AnSwEr0001 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+HASH reference completed 
+
+
+Start xml encoding
+HASH reference with 2/8 elements will be investigated
+  AnSwEr0002 is HASH reference with 19/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    upToConstant is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    showDomainErrors is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    diagnostics is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Formula and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0001 is HASH reference with 19/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    upToConstant is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    showDomainErrors is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    diagnostics is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Formula and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+HASH reference completed 
+
+
+Start xml encoding
+HASH reference with 1/8 elements will be investigated
+  AnSwEr0001 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+HASH reference completed 
+
+
+Start xml encoding
+HASH reference with 4/8 elements will be investigated
+  AnSwEr0005 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0002 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0004 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0001 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0003 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+HASH reference completed 
+
+
+Start xml encoding
+HASH reference with 4/8 elements will be investigated
+  AnSwEr0002 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0004 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0001 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0003 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+HASH reference completed 
+
+
+Start xml encoding
+HASH reference with 3/8 elements will be investigated
+  AnSwEr0002 is HASH reference with 10/16 elements will be investigated
+    preview_latex_string is      : scalar -- not converted
+    done is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    score is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0001 is HASH reference with 10/16 elements will be investigated
+    preview_latex_string is      : scalar -- not converted
+    done is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    score is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0003 is HASH reference with 10/16 elements will be investigated
+    preview_latex_string is      : scalar -- not converted
+    done is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    score is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+  HASH reference completed 
+HASH reference completed 
+
+
+Start xml encoding
+HASH reference with 4/8 elements will be investigated
+  AnSwEr0002 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0004 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0001 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0003 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+HASH reference completed 
+
+
+Start xml encoding
+HASH reference with 3/8 elements will be investigated
+  AnSwEr0002 is HASH reference with 10/16 elements will be investigated
+    preview_latex_string is      : scalar -- not converted
+    done is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    score is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0001 is HASH reference with 10/16 elements will be investigated
+    preview_latex_string is      : scalar -- not converted
+    done is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    score is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0003 is HASH reference with 10/16 elements will be investigated
+    preview_latex_string is      : scalar -- not converted
+    done is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    score is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+  HASH reference completed 
+HASH reference completed 
+
+
+Start xml encoding
+HASH reference with 3/8 elements will be investigated
+  AnSwEr0002 is HASH reference with 10/16 elements will be investigated
+    preview_latex_string is      : scalar -- not converted
+    done is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    score is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0001 is HASH reference with 10/16 elements will be investigated
+    preview_latex_string is      : scalar -- not converted
+    done is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    score is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0003 is HASH reference with 10/16 elements will be investigated
+    preview_latex_string is      : scalar -- not converted
+    done is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    score is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+  HASH reference completed 
+HASH reference completed 
+
+
+Start xml encoding
+HASH reference with 1/8 elements will be investigated
+  AnSwEr0001 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+HASH reference completed 
+
+
+Start xml encoding
+HASH reference with 1/8 elements will be investigated
+  AnSwEr0001 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+HASH reference completed 
+
+
+Start xml encoding
+HASH reference with 1/8 elements will be investigated
+  AnSwEr0001 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+HASH reference completed 
+
+
+Start xml encoding
+HASH reference with 5/8 elements will be investigated
+  third_answer is HASH reference with 19/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    upToConstant is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    showDomainErrors is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    diagnostics is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Formula and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0002 is HASH reference with 19/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    upToConstant is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    showDomainErrors is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    diagnostics is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Formula and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0004 is HASH reference with 19/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    upToConstant is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    showDomainErrors is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    diagnostics is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Formula and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  second_answer is HASH reference with 19/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    upToConstant is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    showDomainErrors is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    diagnostics is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Formula and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  first_answer is HASH reference with 19/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    upToConstant is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    showDomainErrors is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    diagnostics is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Formula and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0001 is HASH reference with 19/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    upToConstant is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    showDomainErrors is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    diagnostics is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Formula and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0003 is HASH reference with 19/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    upToConstant is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    showDomainErrors is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    diagnostics is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Formula and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+HASH reference completed 
+
+
+Start xml encoding
+HASH reference with 1/8 elements will be investigated
+  AnSwEr0001 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+HASH reference completed 
+
+
+Start xml encoding
+HASH reference with 1/8 elements will be investigated
+  AnSwEr0001 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+HASH reference completed 
+
+
+Start xml encoding
+HASH reference with 4/8 elements will be investigated
+  AnSwEr0002 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0004 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0001 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0003 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+HASH reference completed 
+
+
+Start xml encoding
+HASH reference with 2/8 elements will be investigated
+  AnSwEr0002 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0001 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+HASH reference completed 
+
+
+Start xml encoding
+HASH reference with 4/8 elements will be investigated
+  AnSwEr0002 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0004 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0001 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0003 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+HASH reference completed 
+
+
+Start xml encoding
+HASH reference with 2/8 elements will be investigated
+  AnSwEr0002 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0001 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+HASH reference completed 
+
+
+Start xml encoding
+HASH reference with 2/8 elements will be investigated
+  AnSwEr0002 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0001 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+HASH reference completed 
+
+
+Start xml encoding
+HASH reference with 4/8 elements will be investigated
+  AnSwEr0005 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0002 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0004 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0001 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0003 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+HASH reference completed 
+
+
+Start xml encoding
+HASH reference with 4/8 elements will be investigated
+  AnSwEr0005 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0002 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0004 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0001 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0003 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+HASH reference completed 
+
+
+Start xml encoding
+HASH reference with 3/8 elements will be investigated
+  AnSwEr0002 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0001 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0003 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+HASH reference completed 
+
+
+Start xml encoding
+HASH reference with 4/8 elements will be investigated
+  AnSwEr0002 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0004 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0001 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0003 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+HASH reference completed 
+
+
+Start xml encoding
+HASH reference with 3/8 elements will be investigated
+  AnSwEr0002 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0001 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0003 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+HASH reference completed 
+
+
+Start xml encoding
+HASH reference with 6/16 elements will be investigated
+  AnSwEr0007 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0004 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0001 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0008 is HASH reference with 19/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    upToConstant is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    showDomainErrors is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    diagnostics is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Formula and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0002 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0005 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0006 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0003 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+HASH reference completed 
+
+
+Start xml encoding
+HASH reference with 3/8 elements will be investigated
+  AnSwEr0002 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0001 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0003 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+HASH reference completed 
+
+
+Start xml encoding
+HASH reference with 3/8 elements will be investigated
+  AnSwEr0002 is HASH reference with 10/16 elements will be investigated
+    preview_latex_string is      : scalar -- not converted
+    done is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    score is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0001 is HASH reference with 10/16 elements will be investigated
+    preview_latex_string is      : scalar -- not converted
+    done is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    score is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0003 is HASH reference with 10/16 elements will be investigated
+    preview_latex_string is      : scalar -- not converted
+    done is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    score is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+  HASH reference completed 
+HASH reference completed 
+
+
+Start xml encoding
+HASH reference with 1/8 elements will be investigated
+  AnSwEr0001 is HASH reference with 10/16 elements will be investigated
+    preview_latex_string is      : scalar -- not converted
+    done is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    score is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+  HASH reference completed 
+HASH reference completed 
+
+
+Start xml encoding
+HASH reference with 18/32 elements will be investigated
+  AnSwEr0018 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0007 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0001 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0017 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0012 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0005 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0011 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0006 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0003 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0024 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0015 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0023 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0021 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0020 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0022 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0014 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0004 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0016 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0008 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0009 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0002 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0013 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0019 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0010 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+HASH reference completed 
+
+
+Start xml encoding
+HASH reference with 2/8 elements will be investigated
+  AnSwEr0002 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0001 is HASH reference with 19/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    upToConstant is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    showDomainErrors is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    diagnostics is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Formula and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+HASH reference completed 
+
+
+Start xml encoding
+HASH reference with 1/8 elements will be investigated
+  AnSwEr0001 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+HASH reference completed 
+
+
+Start xml encoding
+HASH reference with 1/8 elements will be investigated
+  AnSwEr0001 is HASH reference with 10/16 elements will be investigated
+    preview_latex_string is      : scalar -- not converted
+    done is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    score is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+  HASH reference completed 
+HASH reference completed 
+
+
+Start xml encoding
+HASH reference with 2/8 elements will be investigated
+  AnSwEr0002 is HASH reference with 19/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    upToConstant is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    showDomainErrors is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    diagnostics is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Formula and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0001 is HASH reference with 19/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    upToConstant is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    showDomainErrors is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    diagnostics is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Formula and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+HASH reference completed 
+
+
+Start xml encoding
+HASH reference with 4/8 elements will be investigated
+  AnSwEr0002 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0004 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0001 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0003 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : s
+
+Start xml encoding
+HASH reference with 6/16 elements will be investigated
+  AnSwEr0007 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0004 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0001 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0008 is HASH reference with 19/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : calar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+HASH reference completed 
+
+
+Start xml encoding
+HASH reference with 3/8 elements will be investigated
+  AnSwEr0002 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0001 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0003 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+HASH reference completed 
+scalar -- not converted
+    upToConstant is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    showDomainErrors is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    diagnostics is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Formula and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0002 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0005 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0006 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0003 is HASH reference with 17/32 elements will be investigated
+    done is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    showUnionReduceWarnings is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    showTypeWarnings is      : scalar -- not converted
+    debug is      : scalar -- not converted
+    ignoreInfinity is      : scalar -- not converted
+    preview_latex_string is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    studentsMustReduceUnions is      : scalar -- not converted
+    ignoreStrings is      : scalar -- not converted
+    score is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    correct_value is      Value::Real and was  converted to string
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+    showEqualErrors is      : scalar -- not converted
+  HASH reference completed 
+HASH reference completed 
+
+
+Start xml encoding
+HASH reference with 0 elements will be investigated
+HASH reference completed 
+
+
+Start xml encoding
+HASH reference with 0 elements will be investigated
+HASH reference completed 
+
+
+Start xml encoding
+HASH reference with 0 elements will be investigated
+HASH reference completed 
+
+
+Start xml encoding
+HASH reference with 0 elements will be investigated
+HASH reference completed 
+
+
+Start xml encoding
+HASH reference with 0 elements will be investigated
+HASH reference completed 
+
+
+Start xml encoding
+HASH reference with 0 elements will be investigated
+HASH reference completed 
+
+
+Start xml encoding
+HASH reference with 0 elements will be investigated
+HASH reference completed 
+
+
+Start xml encoding
+HASH reference with 0 elements will be investigated
+HASH reference completed 
+
+
+Start xml encoding
+HASH reference with 0 elements will be investigated
+HASH reference completed 
+
+
+Start xml encoding
+HASH reference with 0 elements will be investigated
+HASH reference completed 
+
+
+Start xml encoding
+HASH reference with 0 elements will be investigated
+HASH reference completed 
+
+
+Start xml encoding
+HASH reference with 0 elements will be investigated
+HASH reference completed 
+
+
+Start xml encoding
+HASH reference with 0 elements will be investigated
+HASH reference completed 
+
+
+Start xml encoding
+HASH reference with 0 elements will be investigated
+HASH reference completed 
+
+
+Start xml encoding
+HASH reference with 0 elements will be investigated
+HASH reference completed 
+
+
+Start xml encoding
+HASH reference with 0 elements will be investigated
+HASH reference completed 
+
+
+Start xml encoding
+HASH reference with 3/8 elements will be investigated
+  AnSwEr0002 is HASH reference with 10/16 elements will be investigated
+    preview_latex_string is      : scalar -- not converted
+    done is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    score is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0001 is HASH reference with 10/16 elements will be investigated
+    preview_latex_string is      : scalar -- not converted
+    done is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    score is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+  HASH reference completed 
+  AnSwEr0003 is HASH reference with 10/16 elements will be investigated
+    preview_latex_string is      : scalar -- not converted
+    done is      : scalar -- not converted
+    original_student_ans is      : scalar -- not converted
+    preview_text_string is      : scalar -- not converted
+    ans_message is      : scalar -- not converted
+    student_ans is      : scalar -- not converted
+    error_flag is      : scalar -- not converted
+    score is      : scalar -- not converted
+    correct_ans is      : scalar -- not converted
+    ans_label is      : scalar -- not converted
+    error_message is      : scalar -- not converted
+    _filter_name is      : scalar -- not converted
+    type is      : scalar -- not converted
+    ans_name is      : scalar -- not converted
+  HASH reference completed 
+HASH reference completed 

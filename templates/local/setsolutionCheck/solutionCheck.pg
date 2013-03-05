@@ -1,0 +1,114 @@
+##DESCRIPTION
+##  Algebra problem: true or false for inequality 
+##ENDDESCRIPTION
+
+##KEYWORDS('algebra', 'inequality', 'fraction')
+
+## DBsubject('Algebra')
+## DBchapter('Fundamentals')
+## DBsection('Real Numbers')
+## Date('6/3/2002')
+## Author('')
+## Institution('')
+## TitleText1('Precalculus')
+## EditionText1('3')
+## AuthorText1('Stewart, Redlin, Watson')
+## Section1('1.1')
+## Problem1('22')
+
+########################################################################
+
+DOCUMENT();      
+
+loadMacros(
+   "PGstandard.pl",     # Standard macros for PG language
+   "MathObjects.pl",
+   "PGinfo.pl",
+   #"source.pl",          # allows code to be displayed on certain sites.
+   #"PGcourse.pl",      # Customization file for the course
+);
+
+# Print problem number and point value (weight) for the problem
+TEXT(beginproblem());
+
+# Show which answers are correct and which ones are incorrect
+$showPartialCorrectAnswers = 1;
+HEADER_TEXT( q!
+<script type="text/javascript" src="/webwork2_files/js/Base64.js"></script>
+!);
+##############################################################
+#
+#  Setup
+#
+#
+Context("Numeric");
+
+#listVariables();
+$pi = Real("pi");
+$myenvir = ~~%main::envir;
+$permissionLevel = $myenvir->{permissionLevel};
+
+$useKnowlsForHints = $myenvir->{use_knowls_for_hints}; 
+$useKnowlsForSolutions = $myenvir->{use_knowls_for_solutions}; 
+$ALWAYS_SHOW_SOLUTION_PERMISSION_LEVEL =  $myenvir->{ALWAYS_SHOW_SOLUTION_PERMISSION_LEVEL	} ;
+$displaySolution = $myenvir->{'displaySolutionsQ'};
+$printSolutionForInstructor = $permissionLevel >= $ALWAYS_SHOW_SOLUTION_PERMISSION_LEVEL;
+
+$ALWAYS_SHOW_HINT_PERMISSION_LEVEL =$myenvir->{'ALWAYS_SHOW_HINT_PERMISSION_LEVEL'} ;
+$displayHint = $myenvir->{'displayHintsQ'};
+$printHintForInstructor = $permissionLevel >= $ALWAYS_SHOW_HINT_PERMISSION_LEVEL;
+
+
+##############################################################
+#
+#  Text
+#
+#
+
+Context()->texStrings;
+BEGIN_TEXT
+This version displays variables for debugging. $PAR
+envir: \{%main::envir\};$PAR
+Enter a value for \(\pi\):
+\{$pi->ans_rule\}
+$PAR
+Parameters:  $BR
+Current user permissionLevel: $permissionLevel $BR
+ALWAYS_SHOW_SOLUTION_PERMISSION_LEVEL: $ALWAYS_SHOW_SOLUTION_PERMISSION_LEVEL -- 10 to show to professors, 9999.. to show to nobody$BR
+ALWAYS_SHOW_HINT_PERMISSION_LEVEL: $ALWAYS_SHOW_HINT_PERMISSION_LEVEL -- 10 to show to professors, 9999.. to show to nobody $BR
+
+$PAR
+use knowls for hints:  $useKnowlsForHints  $BR
+
+use knowls for solutions:  $useKnowlsForSolutions $BR
+
+$PAR
+(show hint after this many attempts) showHints:  $main::showHint  $BR
+number of attempts $main::numOfAttempts; $BR
+displayHint: $displayHint; $BR
+printHintForInstructor: $printHintForInstructor $BR
+$PAR
+displaySolution: $displaySolution; $BR
+printSolutionForInstructor: $printSolutionForInstructor $BR
+
+END_TEXT
+Context()->normalStrings;
+
+##############################################################
+#
+#  Answers
+#
+#
+
+ANS($pi->with(tolerance=>.0001)->cmp);
+# relative tolerance --3.1412 is incorrect but 3.1413 is correct
+# default tolerance is .01 or one percent.
+BEGIN_HINT
+This is a hint.
+END_HINT
+
+BEGIN_SOLUTION
+This is a solution
+END_SOLUTION
+
+ENDDOCUMENT();        

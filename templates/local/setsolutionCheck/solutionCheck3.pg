@@ -1,0 +1,107 @@
+##DESCRIPTION
+
+########################################################################
+
+DOCUMENT();      
+
+loadMacros(
+   "PGstandard.pl",     # Standard macros for PG language
+   "MathObjects.pl",
+   #"source.pl",        # allows code to be displayed on certain sites.
+   #"PGcourse.pl",      # Customization file for the course
+);
+
+# Print problem number and point value (weight) for the problem
+TEXT(beginproblem());
+
+# Show which answers are correct and which ones are incorrect
+$showPartialCorrectAnswers = 1;
+
+##############################################################
+#
+#  Setup
+#
+#
+Context("Numeric");
+
+$batchsize = random(30,50,10);
+$load_time = random(30,50,5);       # minutes
+$unload_time = random(10,20,5);   # minutes
+$per_part = random(20,40,10);       # seconds.
+
+
+$batch_machine_time= $load_time+$unload_time+ $batchsize*$per_part/60;
+$batch_operator_time= $load_time+$unload_time;
+$batch_machine_rate = 2 * 1/($batch_machine_time);
+$batch_operator_rate = 1/($batch_operator_time);
+$part_machine_rate = $batchsize * $batch_machine_rate;
+$part_operator_rate = $batchsize * $batch_operator_rate;
+
+$answer1 = Compute(min($part_machine_rate,$part_operator_rate));
+
+##############################################################
+#
+#  Text
+#
+#
+
+Context()->texStrings;
+BEGIN_TEXT
+$BCENTER $BBOLD Capacity of Injection Molding $EBOLD $ECENTER
+$BR
+$BR
+A firm’s component production department uses 2 injection molding machines, and one operator, to produce special-order plastic parts in small batches.  The average batch size is $batchsize parts, and batches are never ‘split’ between machines.  To produce one batch of parts, each injection molding machine requires three steps:
+$BR
+$BR
+(i) mold install: The operator prepares the machine for production by installing a mold.  On average, this takes $load_time minutes for one machine, for any size batch.
+$BR
+(ii) part production: The machine makes parts.  On average, this requires $per_part seconds per part.  This step is completely automatic, and the operator is not needed.
+$BR
+(iii) mold removal: The operator removes the completed parts and the mold.  On average, this requires $unload_time minutes for one machine, for any size batch.
+$BR
+$BR
+ The single operator’s only job is to work with the two machines.   
+$BR
+$BR
+What is the capacity of the component production department, in parts per minute?  
+$BR 
+\{ans_rule(50)\}
+$BR
+END_TEXT
+Context()->normalStrings;
+
+##############################################################
+#
+#  Answers
+#
+#
+
+ANS($answer1->cmp);
+
+BEGIN_SOLUTION
+$BR
+$BBOLD Solution $EBOLD
+$BR
+$BR
+The problem can be solved by our standard technique.  Identify the items (parts), tasks (install, produce, remove), and resources (machine and operator).  The diagram below shows what resources work on which tasks.
+$BR
+$BCENTER \{ image( "Q1_pict1.png", height=>156,width=>487) \} $ECENTER
+$BR
+$BR
+The times in the table below are the times to process an average batch of $batchsize parts.  The rate columns are also in batches / minute.  The final column is in parts/minute.
+$BR
+$BCENTER \{ 
+begintable(6).
+row("Resource","Time","Rate","m","Rate for pool", "Rate in parts/minute").
+row("Operator","$load_time+$unload_time", "1/".($load_time+$unload_time), 1, "1/".($load_time+$unload_time),
+ "$batchsize/".($load_time+$unload_time)." = ".sprintf("%.3f",($batchsize/($load_time+$unload_time))  ) ).
+row("Machine","$load_time+$batchsize*$per_part/60+$unload_time", "1/".$batch_machine_time,2,"2/".$batch_machine_time,
+"$batchsize * ".sprintf("%.4f",$batch_machine_rate)." = ".sprintf("%.3f",($batchsize*$batch_machine_rate))).
+endtable();
+\} $ECENTER
+$BR
+
+
+END_SOLUTION
+
+ENDDOCUMENT();        

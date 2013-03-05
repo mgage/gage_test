@@ -1,0 +1,81 @@
+##DESCRIPTION
+##  Algebra problem: true or false for inequality 
+##ENDDESCRIPTION
+
+##KEYWORDS('algebra', 'inequality', 'fraction')
+
+## DBsubject('Algebra')
+## DBchapter('Fundamentals')
+## DBsection('Real Numbers')
+## Date('6/3/2002')
+## Author('')
+## Institution('')
+## TitleText1('Precalculus')
+## EditionText1('3')
+## AuthorText1('Stewart, Redlin, Watson')
+## Section1('1.1')
+## Problem1('22')
+
+########################################################################
+
+DOCUMENT();      
+
+loadMacros(
+   "PGstandard.pl",     # Standard macros for PG language
+   "MathObjects.pl",
+   "PGinfo.pl",
+   #"source.pl",          # allows code to be displayed on certain sites.
+   #"PGcourse.pl",      # Customization file for the course
+);
+
+# Print problem number and point value (weight) for the problem
+TEXT(beginproblem());
+
+# Show which answers are correct and which ones are incorrect
+$showPartialCorrectAnswers = 1;
+
+##############################################################
+#
+#  Setup
+#
+#
+Context("Numeric");
+
+# listVariables();
+$pi = Real("pi");
+
+##############################################################
+#
+#  Text
+#
+#
+$pi = Real($PI);
+Context()->texStrings;
+BEGIN_TEXT
+
+Enter a value for \(\pi\):
+\{$pi->ans_rule\}
+$PAR
+
+END_TEXT
+Context()->normalStrings;
+
+##############################################################
+#
+#  Answers
+#
+#
+
+ANS($pi->with(tolerance=>.0001)->cmp);
+# relative tolerance --3.1412 is incorrect but 3.1413 is correct
+# default tolerance is .01 or one percent.
+#  \{ image( "Q1_pict1.png", height=>156,width=>487) \} 
+BEGIN_SOLUTION
+
+  <img src="http://localhost/webwork2_files/tmp/gage_test/img/a96da418-e30c-360f-939c-6531c5ef7c8a___101e5b0f-f028-33e1-a0f9-e1ade0f6c379.png" /img>
+$PAR
+What happen's to mixed single "\'" and double "\"" quotes?
+$PAR
+END_SOLUTION
+
+ENDDOCUMENT();        

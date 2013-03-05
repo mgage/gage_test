@@ -1,0 +1,10 @@
+
+openDate          = 09/15/2012 at 05:47pm EDT
+dueDate           = 09/22/2012 at 05:47pm EDT
+answerDate        = 09/22/2012 at 05:47pm EDT
+paperHeaderFile   = defaultHeader
+screenHeaderFile  = defaultHeader
+problemList       = 
+setincludePGproblem_test/redirect.pg, 1, -1 
+setincludePGproblem_test/redirect_soltn.pg, 1, -1 
+

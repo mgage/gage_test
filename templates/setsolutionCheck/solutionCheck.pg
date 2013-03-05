@@ -23,7 +23,8 @@ DOCUMENT();
 loadMacros(
    "PGstandard.pl",     # Standard macros for PG language
    "MathObjects.pl",
-   #"source.pl",        # allows code to be displayed on certain sites.
+   "PGinfo.pl",
+   #"source.pl",          # allows code to be displayed on certain sites.
    #"PGcourse.pl",      # Customization file for the course
 );
 
@@ -40,7 +41,21 @@ $showPartialCorrectAnswers = 1;
 #
 Context("Numeric");
 
+#listVariables();
 $pi = Real("pi");
+$myenvir = ~~%main::envir;
+$permissionLevel = $myenvir->{permissionLevel};
+
+$useKnowlsForHints = $myenvir->{use_knowls_for_hints}; 
+$useKnowlsForSolutions = $myenvir->{use_knowls_for_solutions}; 
+$ALWAYS_SHOW_SOLUTION_PERMISSION_LEVEL =  $myenvir->{ALWAYS_SHOW_SOLUTION_PERMISSION_LEVEL	} ;
+$displaySolution = $myenvir->{'displaySolutionsQ'};
+$printSolutionForInstructor = $permissionLevel >= $ALWAYS_SHOW_SOLUTION_PERMISSION_LEVEL;
+
+$ALWAYS_SHOW_HINT_PERMISSION_LEVEL =$myenvir->{'ALWAYS_SHOW_HINT_PERMISSION_LEVEL'} ;
+$displayHint = $myenvir->{'displayHintsQ'};
+$printHintForInstructor = $permissionLevel >= $ALWAYS_SHOW_HINT_PERMISSION_LEVEL;
+
 
 ##############################################################
 #
@@ -50,11 +65,30 @@ $pi = Real("pi");
 
 Context()->texStrings;
 BEGIN_TEXT
-
-
-Enter a value for \(\pi\)
-
+This version displays variables for debugging. $PAR
+envir: \{%main::envir\};$PAR
+Enter a value for \(\pi\):
 \{$pi->ans_rule\}
+$PAR
+Parameters:  $BR
+Current user permissionLevel: $permissionLevel $BR
+ALWAYS_SHOW_SOLUTION_PERMISSION_LEVEL: $ALWAYS_SHOW_SOLUTION_PERMISSION_LEVEL -- 10 to show to professors, 9999.. to show to nobody$BR
+ALWAYS_SHOW_HINT_PERMISSION_LEVEL: $ALWAYS_SHOW_HINT_PERMISSION_LEVEL -- 10 to show to professors, 9999.. to show to nobody $BR
+
+$PAR
+use knowls for hints:  $useKnowlsForHints  $BR
+
+use knowls for solutions:  $useKnowlsForSolutions $BR
+
+$PAR
+(show hint after this many attempts) showHints:  $main::showHint  $BR
+number of attempts $main::numOfAttempts; $BR
+displayHint: $displayHint; $BR
+printHintForInstructor: $printHintForInstructor $BR
+$PAR
+displaySolution: $displaySolution; $BR
+printSolutionForInstructor: $printSolutionForInstructor $BR
+
 END_TEXT
 Context()->normalStrings;
 
@@ -74,6 +108,5 @@ END_HINT
 BEGIN_SOLUTION
 This is a solution
 END_SOLUTION
-
 
 ENDDOCUMENT();        

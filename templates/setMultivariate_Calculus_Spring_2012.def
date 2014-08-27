@@ -1,0 +1,21 @@
+
+openDate          = 01/01/2012 at 09:04am EST
+dueDate           = 01/26/2015 at 09:04am EST
+answerDate        = 01/27/2015 at 09:04am EST
+paperHeaderFile   = defaultHeader
+screenHeaderFile  = local/SageHeaderFile.pg
+description       = 
+problemList       = 
+sage/MultiCal/contour2d.pg, 1, -1 
+sage/MultiCal/directional_derivative.pg, 1, -1 
+sage/MultiCal/limit2d_with_formula.pg, 1, -1 
+sage/MultiCal/limit2d_no_formula.pg, 1, -1 
+sage/MultiCal/limit_contours_no_formula.pg, 1, -1 
+sage/MultiCal/vectorfield2d.pg, 1, -1 
+sage/MultiCal/volume_free_form.pg, 1, -1 
+sage/MultiCal/extrema.pg, 1, -1 
+sage/MultiCal/average_value.pg, 1, -1 
+sage/MultiCal/volume_centroid.pg, 1, -1 
+sage/MultiCal/TripleIntegralGeneral.pg, 1, -1 
+sage/MultiCal/critical_points.pg, 1, -1 
+

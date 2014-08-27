@@ -1,11 +1,12 @@
 
 openDate          = 09/05/2012 at 06:53pm EDT
-dueDate           = 09/12/2013 at 06:53pm EDT
-answerDate        = 09/12/2013 at 06:53pm EDT
-paperHeaderFile   = defaultHeader
-screenHeaderFile  = defaultHeader
+dueDate           = 10/01/2012 at 06:53pm EDT
+answerDate        = 10/01/2012 at 06:53pm EDT
+paperHeaderFile   = set0/paperHeaderFile0.pg
+screenHeaderFile  = set0/screenHeaderFile0.pg
+description       = 
 problemList       = 
-local/setsolutionCheck/solutionCheck1.pg, 1, -1 
+local/setsolutionCheck/solutionCheck1.pg, 1, 5 
 setsolutionCheck/solutionCheck.pg, 1, -1 
 local/setsolutionCheck/solutionCheck2.pg, 1, -1 
 local/setsolutionCheck/solutionCheck3.pg, 1, -1 

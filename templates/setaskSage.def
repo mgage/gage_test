@@ -1,0 +1,14 @@
+
+openDate          = 06/27/2013 at 07:39pm EDT
+dueDate           = 07/31/2013 at 07:39pm EDT
+answerDate        = 07/31/2013 at 07:39pm EDT
+paperHeaderFile   = defaultHeader
+screenHeaderFile  = defaultHeader
+description       = 
+problemList       = 
+local/setaskSage/askSage.pg, 1, -1 
+local/setaskSage/sageApplet.pg, 1, -1 
+local/setaskSage/askSage2.pg, 1, -1 
+local/setaskSage/askSage4.pg, 1, -1 
+local/setaskSage/askSage6.pg, 1, -1 
+

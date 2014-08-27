@@ -1,0 +1,49 @@
+## Template for calling Sage from within a WebWork pg file
+
+## BEGIN_DESCRIPTION
+## Sample problem embedding Sage in WW
+## END_DESCRIPTION
+
+DOCUMENT();
+
+
+loadMacros(
+  "PGstandard.pl",
+  "MathObjects.pl",
+);
+
+###############################################
+##
+## Setup
+
+$sage_statement = "3+5+2";
+Context("Numeric");
+$SageCode1=<<END;
+print $sage_statement
+END
+
+# accepted_tos=>true indicates that you agree to the terms of service:
+# https://sagecell.sagemath.org/tos.html
+
+$result = AskSage($SageCode1,{seed=>234, accepted_tos=>true, debug=>0});
+if (sageReturnedFail($result) ) {
+         $result = '123456789'; # default value for $answer
+}
+
+$answer = Real($result);
+
+##################################
+# Text
+
+Context()->texStrings;
+BEGIN_TEXT
+What is $sage_statement \{ans_rule\}.
+END_TEXT
+Context()->normalStrings;
+
+##################################
+# Answer
+
+ANS($answer->cmp());
+
+ENDDOCUMENT();

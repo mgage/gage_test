@@ -1,0 +1,14 @@
+
+openDate          = 01/01/2012 at 09:04am EST
+dueDate           = 01/26/2015 at 09:04am EST
+answerDate        = 01/27/2015 at 09:04am EST
+paperHeaderFile   = defaultHeader
+screenHeaderFile  = local/SageHeaderFile.pg
+description       = 
+problemList       = 
+sage/Trig/Defn_Terminal_Side.pg, 1, -1 
+sage/Trig/Defn_Terminal_Side.pg, 1, -1 
+sage/Trig/Solve_Trig_Expression.pg, 1, -1 
+sage/Trig/Solve_Trig_Expression_Explicit.pg, 1, -1 
+sage/Trig/Solve_Trig_Expression2.pg, 1, -1 
+

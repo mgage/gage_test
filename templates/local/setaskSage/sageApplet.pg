@@ -1,0 +1,92 @@
+##DESCRIPTION
+##  Algebra problem: true or false for inequality 
+##ENDDESCRIPTION
+
+##KEYWORDS('algebra', 'inequality', 'fraction')
+
+## DBsubject('Algebra')
+## DBchapter('Fundamentals')
+## DBsection('Real Numbers')http://sagecell.sagemath.org
+## Date('6/3/2002')
+## Author('')
+## Institution('')
+## TitleText1('Precalculus')
+## EditionText1('3')
+## AuthorText1('Stewart, Redlin, Watson')
+## Section1('1.1')
+## Problem1('22')
+
+########################################################################
+
+DOCUMENT();      
+
+loadMacros(
+   "PGstandard.pl",     # Standard macros for PG language
+   "MathObjects.pl",
+   "sage.pl",
+   "PGinfo.pl",
+   #"source.pl",        # allows code to be displayed on certain sites.
+   #"PGcourse.pl",      # Customization file for the course
+);
+
+# Print problem number and point value (weight) for the problem
+TEXT(beginproblem());
+# Show which answers are correct and which ones are incorrect
+$showPartialCorrectAnswers = 1;
+
+##############################################################
+#
+#  Setup
+#
+#
+Context("Numeric");
+
+$a = random(2,5,1);
+
+$ansList = List("(-cos(pi*$a)/$a + 1/$a)");
+
+$SageCode = <<SAGE_CODE;
+
+Area = integrate(sin($a*x),x,0,pi)
+print Area
+
+record_answer((Area))
+
+SAGE_CODE
+
+
+Sage(
+  SageCode=>$SageCode,
+  CellServer=>'http://aleph.sagemath.org',
+  AutoEvaluateCell=>'true',
+  ShowAnswerBlank=>'input'
+);
+
+
+##############################################################
+#
+#  Text
+#
+#
+TEXT('test output: ', $inputs_ref->{sageAnswer}, $BR);
+TEXT("a= $a", $BR);
+Context()->texStrings;
+BEGIN_TEXT
+
+Determine the definite integral of 
+\( \sin(${a}x) \) from \(a=0\) to \(b=\pi\).
+
+END_TEXT
+Context()->normalStrings;
+
+##############################################################
+#
+#  Answers
+#
+#
+
+$showPartialCorrectAnswers = 1;
+NAMED_ANS( sageAnswer => $ansList->cmp   );
+
+
+ENDDOCUMENT();        

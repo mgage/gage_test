@@ -1,0 +1,73 @@
+##DESCRIPTION
+##  Algebra problem: true or false for inequality 
+##ENDDESCRIPTION
+
+##KEYWORDS('algebra', 'inequality', 'fraction')
+
+## DBsubject('Algebra')
+## DBchapter('Fundamentals')
+## DBsection('Real Numbers')
+## Date('6/3/2002')
+## Author('')
+## Institution('')
+## TitleText1('Precalculus')
+## EditionText1('3')
+## AuthorText1('Stewart, Redlin, Watson')
+## Section1('1.1')
+## Problem1('22')
+
+########################################################################
+
+DOCUMENT();      
+
+loadMacros(
+   "PGstandard.pl",     # Standard macros for PG language
+   "MathObjects.pl",
+   #"source.pl",        # allows code to be displayed on certain sites.
+   #"PGcourse.pl",      # Customization file for the course
+);
+
+# Print problem number and point value (weight) for the problem
+TEXT(beginproblem());
+
+# Show which answers are correct and which ones are incorrect
+$showPartialCorrectAnswers = 1;
+
+##############################################################
+#
+#  Setup
+#
+#
+
+
+Context("Matrix");
+$python=<<END;
+print random_matrix(QQ,4,5,algorithm='echelonizable',rank=3).rows()
+END
+$sage = AskSage($python,{seed=>321,accepted_tos=>true,debug=>0} );
+
+if (sageReturnedFail($sage) ) {
+    $sage = "[1]"; # default value for $M;
+}
+$M = Matrix($sage);
+
+$python2 =<<END;
+print matrix(QQ,$sage).rref().rows()
+END
+
+$sage2 = AskSage($python2,{seed=>321,accepted_tos=>true, debug=>0});
+if (sageReturnedFail($sage2) ) {
+    $sage2 = "[5]"; # default value for $ans;
+}
+$ans = Matrix($sage2);
+Context()->texStrings;
+BEGIN_TEXT
+
+Row reduce \( $M \) $BR$BR
+\{ $ans->ans_array\}
+
+END_TEXT
+Context()->normalStrings;
+ANS($ans->cmp());
+
+ENDDOCUMENT();        

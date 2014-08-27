@@ -1,0 +1,64 @@
+Structure of JSON return from sage
+
+
+Jason Grout example
+{
+"user_variables": {
+	"WEBWORK": {
+		"status": "ok", 
+		"data": {
+			"application/json": "{
+				\"function\": [\"sin(2*u^2*v^2) + sin(2*u*v^2)\", \"log(9*u^2*v^2) + log(6*u^2*v^2)\", \"7*u^2*v^2\"], 
+				\"diff\": [[\"4*u*v^2*cos(2*u^2*v^2) + 2*v^2*cos(2*u*v^2)\", \"4*u^2*v*cos(2*u^2*v^2) + 4*u*v*cos(2*u*v^2)\"], [\"4/u\", \"4/v\"], [\"14*u*v^2\", \"14*u^2*v\"]]
+			}", 
+			"text/plain": "{'diff': [4*u*v^2*cos(2*u^2*v^2) + 2*v^2*cos(2*u*v^2) 4*u^2*v*cos(2*u^2*v^2) + 4*u*v*cos(2*u*v^2)]\n [ 4/u 4/v]\n [ 14*u*v^2 14*u^2*v],\n 'function': (sin(2*u^2*v^2) + sin(2*u*v^2), log(9*u^2*v^2) + log(6*u^2*v^2), 7*u^2*v^2)
+			}"
+		}, 
+		"metadata": {}
+	}
+}, 
+
+"success": true, 
+"execute_reply": {
+	"status": "ok", 
+	"execution_count": 1, 
+	"user_variables": {
+		"WEBWORK": {
+			"status": "ok", 
+			"data": {
+				"application/json": "{
+					\"function\": [\"sin(2*u^2*v^2) + sin(2*u*v^2)\", \"log(9*u^2*v^2) + log(6*u^2*v^2)\", \"7*u^2*v^2\"], 
+					\"diff\": [[\"4*u*v^2*cos(2*u^2*v^2) + 2*v^2*cos(2*u*v^2)\", \"4*u^2*v*cos(2*u^2*v^2) + 4*u*v*cos(2*u*v^2)\"], [\"4/u\", \"4/v\"], [\"14*u*v^2\", \"14*u^2*v\"]]
+				}", 
+				"text/plain": "{
+					'diff': [4*u*v^2*cos(2*u^2*v^2) + 2*v^2*cos(2*u*v^2) 4*u^2*v*cos(2*u^2*v^2) + 4*u*v*cos(2*u*v^2)]\n [ 4/u 4/v]\n [ 14*u*v^2 14*u^2*v],\n 
+					'function': (sin(2*u^2*v^2) + sin(2*u*v^2), log(9*u^2*v^2) + log(6*u^2*v^2), 7*u^2*v^2)
+				}"
+			}, 
+			"metadata": {}
+		}
+	}, 
+	"payload": [], 
+	"user_expressions": {}
+}
+	
+}
+
+
+Simple example:
+
+curl -k -sS -L --data-urlencode "accepted_tos=true " --data-urlencode "code=set_random_seed(1234); 
+print 4 + 5 " https://urldefense.proofpoint.com/v1/url?u=https://sagecell.sagemath.org/service&k=p4Ly7qpEBiYPBVenR9G2iQ%3D%3D%0A&r=enN3K%2BCUdz1bRKB01s3PUtIX0B0zjgWTYpo9pUAD9Ek%3D%0A&m=j9Rl4pdW67Ptn5xiQfY0szKISWcwrX9dEckvN2AUwPw%3D%0A&s=c2d05c90f145f4c14a89a6404f67ddc0b0b93638e87eb8343171ca5e41a33c78
+
+
+{"user_variables": {}, "execute_reply": {"status": "ok", "execution_count": 1, "user_variables": {}, "payload": [], "user_expressions": {}}, "success": true, "stdout": "9\n"}
+
+
+Syntax error example
+
+{"user_variables": {}, "success": false, "execute_reply": {"status": "error", "ename": "SyntaxError", "execution_count": 1, "evalue": "invalid syntax (<ipython-input-1-35372e3e2cc1>, line 1)", "traceback": ["\u001b[1;36m  File \u001b[1;32m\"<ipython-input-1-35372e3e2cc1>\"\u001b[1;36m, line \u001b[1;32m1\u001b[0m\n\u001b[1;33m    set_random_seed(Integer(1234)) print Integer(4) + Integer(5)\u001b[0m\n\u001b[1;37m                                       ^\u001b[0m\n\u001b[1;31mSyntaxError\u001b[0m\u001b[1;31m:\u001b[0m invalid syntax\n"], "user_variables": {}, "user_expressions": {}, "engine_info": {"engine_uuid": "bc999c3b-b947-4c65-80ea-0f331dbd1fe2", "method": "execute", "engine_id": -1}, "payload": []}}
+
+
+
+
+

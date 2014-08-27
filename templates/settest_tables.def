@@ -1,0 +1,11 @@
+
+openDate          = 05/25/2014 at 04:50pm EDT
+dueDate           = 06/01/2014 at 04:50pm EDT
+answerDate        = 06/01/2014 at 04:50pm EDT
+paperHeaderFile   = defaultHeader
+screenHeaderFile  = defaultHeader
+description       = 
+problemList       = 
+local/settest_tables/test_table.pg, 1, -1 
+local/settest_tables/conditionalreleasetest.pg, 1, -1 
+

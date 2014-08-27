@@ -1,0 +1,70 @@
+
+openDate          = 03/09/2014 at 11:43pm EDT
+dueDate           = 03/16/2014 at 11:43pm EDT
+answerDate        = 03/23/2014 at 11:43pm EDT
+paperHeaderFile   = defaultHeader
+screenHeaderFile  = defaultHeader
+description       = 
+problemList       = 
+Library/CSUOhio/appletDemonstrationProblems/AntiderivativeDraw.pg, 1, -1 
+Library/CSUOhio/appletDemonstrationProblems/CanOptimizeArea.pg, 1, -1 
+Library/CSUOhio/appletDemonstrationProblems/DerivativeDraw11.pg, 1, -1 
+Library/CSUOhio/appletDemonstrationProblems/EpsilonDelta_LimitDNE.pg, 1, -1 
+Library/CSUOhio/appletDemonstrationProblems/EpsilonDelta_LimitExists.pg, 1, -1 
+Library/CSUOhio/appletDemonstrationProblems/LabelingPoints.pg, 1, -1 
+Library/CSUOhio/appletDemonstrationProblems/LabelingPointsCustom.pg, 1, -1 
+Library/CSUOhio/appletDemonstrationProblems/NormanWindow.pg, 1, -1 
+Library/CSUOhio/appletDemonstrationProblems/drawPts1.pg, 1, -1 
+Library/CSUOhio/appletDemonstrationProblems/graphLimits2.pg, 1, -1 
+Library/CSUOhio/appletDemonstrationProblems/graphLimits3.pg, 1, -1 
+Library/CSUOhio/appletDemonstrationProblems/graphLimits.pg, 1, -1 
+Library/CSUOhio/appletDemonstrationProblems/graphMatch2.pg, 1, -1 
+Library/CSUOhio/appletDemonstrationProblems/graphMatch.pg, 1, -1 
+Library/CSUOhio/appletDemonstrationProblems/graphSketch2.pg, 1, -1 
+Library/CSUOhio/appletDemonstrationProblems/graphSketch3.pg, 1, -1 
+Library/CSUOhio/appletDemonstrationProblems/graphSketch4.pg, 1, -1 
+Library/CSUOhio/appletDemonstrationProblems/graphSketch5.pg, 1, -1 
+Library/CSUOhio/appletDemonstrationProblems/graphSketch6.pg, 1, -1 
+Library/CSUOhio/appletDemonstrationProblems/graphSketch7.pg, 1, -1 
+Library/FortLewis/Authoring/Templates/IntegralCalc/GeoGebra1/GeoGebra1.pg, 1, -1 
+Library/FortLewis/Calc1/06-01-Antiderivatives-graphically/AF1/AF1.pg, 1, -1 
+Library/FortLewis/Calc1/06-01-Antiderivatives-graphically/AF2/AF2.pg, 1, -1 
+Library/FortLewis/Calc1/06-01-Antiderivatives-graphically/AF3/AF3.pg, 1, -1 
+Library/FortLewis/Calc1/06-01-Antiderivatives-graphically/AF4/AF4.pg, 1, -1 
+Library/FortLewis/Calc1/06-01-Antiderivatives-graphically/AF5/AF5.pg, 1, -1 
+Library/FortLewis/Calc1/06-01-Antiderivatives-graphically/AF6/AF6.pg, 1, -1 
+Library/FortLewis/Calc1/06-01-Antiderivatives-graphically/AF7/AF7.pg, 1, -1 
+Library/FortLewis/Calc2/8-8-Probability/HGM5-08-08-09/HGM5-08-08-09.pg, 1, -1 
+Library/FortLewis/Calc2/8-8-Probability/HGM5-08-08-10/HGM5-08-08-10.pg, 1, -1 
+Library/LoyolaChicago/Precalc/Chap5Sec4/graph-transformation-01.pg, 1, -1 
+Library/LoyolaChicago/Precalc/Chap5Sec4/graph-transformation-02.pg, 1, -1 
+Library/LoyolaChicago/Precalc/Chap5Sec4/graph-transformation-03.pg, 1, -1 
+Library/LoyolaChicago/Precalc/Chap5Sec4/graph-transformation-04.pg, 1, -1 
+Library/LoyolaChicago/Precalc/Chap5Sec4/graph-transformation-05.pg, 1, -1 
+Library/LoyolaChicago/Precalc/Chap5Sec4/graph-transformation-06.pg, 1, -1 
+Library/LoyolaChicago/Precalc/Chap5Sec4/graph-transformation-07.pg, 1, -1 
+Library/LoyolaChicago/Precalc/Chap6Sec5/sinusoidal-graph-01.pg, 1, -1 
+Library/FortLewis/Calc3/12-3-Contour-diagrams/HGM4-12-3-18b-Contour-diagrams/HGM4-12-3-18b-Contour-diagrams.pg, 1, -1 
+Library/FortLewis/Calc3/12-3-Contour-diagrams/HGM4-12-3-18e-Contour-diagrams/HGM4-12-3-18e-Contour-diagrams.pg, 1, -1 
+Library/FortLewis/Calc3/12-3-Contour-diagrams/HGM4-12-3-18f-Contour-diagrams/HGM4-12-3-18f-Contour-diagrams.pg, 1, -1 
+Library/FortLewis/Calc3/19-1-Idea-of-flux/HGM4-19-1-01a-Idea-of-flux/HGM4-19-1-01a-Idea-of-flux.pg, 1, -1 
+Library/FortLewis/Calc3/19-1-Idea-of-flux/HGM4-19-1-01b-Idea-of-flux/HGM4-19-1-01b-Idea-of-flux.pg, 1, -1 
+Library/FortLewis/Calc3/19-1-Idea-of-flux/HGM4-19-1-02a-Idea-of-flux/HGM4-19-1-02a-Idea-of-flux.pg, 1, -1 
+Library/FortLewis/Calc3/19-1-Idea-of-flux/HGM4-19-1-03a-Idea-of-flux/HGM4-19-1-03a-Idea-of-flux.pg, 1, -1 
+Library/FortLewis/Calc3/19-1-Idea-of-flux/HGM4-19-1-04a-Idea-of-flux/HGM4-19-1-04a-Idea-of-flux.pg, 1, -1 
+Library/FortLewis/Calc3/19-1-Idea-of-flux/HGM4-19-1-04b-Idea-of-flux/HGM4-19-1-04b-Idea-of-flux.pg, 1, -1 
+Library/FortLewis/Calc3/19-1-Idea-of-flux/HGM4-19-1-05a-Idea-of-flux/HGM4-19-1-05a-Idea-of-flux.pg, 1, -1 
+Library/FortLewis/Calc3/19-1-Idea-of-flux/HGM4-19-1-05b-Idea-of-flux/HGM4-19-1-05b-Idea-of-flux.pg, 1, -1 
+Library/FortLewis/Calc3/19-1-Idea-of-flux/HGM4-19-1-06a-Idea-of-flux/HGM4-19-1-06a-Idea-of-flux.pg, 1, -1 
+Library/FortLewis/Calc3/19-1-Idea-of-flux/HGM4-19-1-06b-Idea-of-flux/HGM4-19-1-06b-Idea-of-flux.pg, 1, -1 
+Library/FortLewis/Calc3/19-1-Idea-of-flux/HGM4-19-1-30-Idea-of-flux/HGM4-19-1-30-Idea-of-flux.pg, 1, -1 
+Library/Union/setMVlevelsets/levels-3/levels-3.pg, 1, -1 
+Library/Union/setMVlevelsets/levels-4/levels-4.pg, 1, -1 
+Library/Union/setMVlevelsets/levels-5/levels-5a.pg, 1, -1 
+Library/Union/setMVlevelsets/levels-5/levels-5b.pg, 1, -1 
+Library/Union/setMVlevelsets/levels-5/levels-5c.pg, 1, -1 
+Library/Union/setMVlevelsets/levels-8b/levels-8b.pg, 1, -1 
+Library/Union/setMVlevelsets/levels-10a/levels-10a.pg, 1, -1 
+Library/Union/setMVlevelsets/levels-10b/levels-10b.pg, 1, -1 
+Library/Union/setMVlevelsets/levels-10c/levels-10c.pg, 1, -1 
+

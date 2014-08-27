@@ -1,0 +1,12 @@
+
+openDate          = 06/02/2012 at 08:54pm EDT
+dueDate           = 06/27/2015 at 08:54pm EDT
+answerDate        = 06/27/2015 at 08:54pm EDT
+paperHeaderFile   = local/SageHeaderFile.pg
+screenHeaderFile  = local/SageHeaderFile.pg
+problemList       = 
+sage/LinearAlg/Axb_span.pg, 1, -1 
+sage/LinearAlg/Axb_span3d.pg, 1, -1 
+sage/LinearAlg/LinearTransformations.pg, 1, -1 
+local/setLinear_Algebra/JasonAubrey.pg, 1, -1 
+
